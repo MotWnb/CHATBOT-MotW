@@ -29,6 +29,6 @@ while True:
     message = input("Enter your message >> ")
     if("exit" == message):
         exit()
-    response = alice.respond(message) # 机器人应答
+    response = alice.respond(message)
     print(response)
 #Read more:https://blog.csdn.net/qq_40695642/article/details/100109963
