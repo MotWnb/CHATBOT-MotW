@@ -9,4 +9,4 @@ Is to find aiml in the Python Installation Path D:\Python-3.7.3\Lib\site-package
 
 You can find the python path by typing where python in CMD
 
-And copy the files under botdata directly to the desktop
+And copy the files under botdata directly to the folder where the program is located
